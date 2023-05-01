@@ -1,3 +1,4 @@
+#Ista 131, by: Daniel Peabody
 import pandas as pd
 import matplotlib.pyplot as plt
 
